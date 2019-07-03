@@ -3,7 +3,7 @@ using CommandLine;
 
 namespace STO_Event_Calculator
 {
-    class STO_Event_Calendar
+    class STO_Event_Calculator
     {
         static void Main(string[] args)
         {
