@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using CommandLine;
 
-namespace STO_Event_Calendar
+namespace STO_Event_Calculator
 {
     public class Options
     {
@@ -23,8 +23,8 @@ namespace STO_Event_Calendar
         [Option('j', "json", HelpText = "Save the raw data as a JSON file.")]
         public bool Json { get; set; }
 
-        [Option('f', "json-file", HelpText = "Path where the JSON file will be saved (defaults to STO_Event_Calendar.json in the current directory)")]
-        public string JsonPath { get; set; } = $"{Directory.GetCurrentDirectory()}\\STO_Event_Calendar.json";
+        [Option('f', "json-file", HelpText = "Path where the JSON file will be saved (defaults to STO_Event_Calculator.json in the current directory)")]
+        public string JsonPath { get; set; } = $"{Directory.GetCurrentDirectory()}\\STO_Event_Calculator.json";
 
         [Option('q', "quiet", HelpText = "Suppress all the pretty text output (should be used with --json and/or --print-json)")]
         public bool Quiet { get; set; }

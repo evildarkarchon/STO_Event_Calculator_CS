@@ -1,6 +1,6 @@
 ﻿using Keyboard;
 
-namespace STO_Event_Calendar
+namespace STO_Event_Calculator
 {
     public class STOFactory
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 
-namespace STO_Event_Calendar
+namespace STO_Event_Calculator
 {
     public class STO : AbsSTO
     {

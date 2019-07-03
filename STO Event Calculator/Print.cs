@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace STO_Event_Calendar
+namespace STO_Event_Calculator
 {
     class Print
     {

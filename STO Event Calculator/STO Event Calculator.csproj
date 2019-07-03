@@ -1,11 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <RootNamespace>STO_Event_Calendar</RootNamespace>
+    <RootNamespace>STO_Event_Calculator</RootNamespace>
     <StartupObject></StartupObject>
-    <AssemblyName>STO_Event_Calendar</AssemblyName>
+    <AssemblyName>STO_Event_Calculator</AssemblyName>
     <Description>Calculator for Star Trek Online in-game events.
 Based on a python script made by /u/AuguryDefiant on reddit</Description>
     <Authors>Andrew Nelson</Authors>

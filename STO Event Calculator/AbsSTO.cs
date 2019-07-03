@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace STO_Event_Calendar
+namespace STO_Event_Calculator
 {
     public abstract class AbsSTO
     {

@@ -1,4 +1,4 @@
-﻿namespace STO_Event_Calendar
+﻿namespace STO_Event_Calculator
 {
     public struct Date
     {

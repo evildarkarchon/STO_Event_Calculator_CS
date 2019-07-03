@@ -1,7 +1,7 @@
 ﻿using System;
 using CommandLine;
 
-namespace STO_Event_Calendar
+namespace STO_Event_Calculator
 {
     class STO_Event_Calendar
     {
